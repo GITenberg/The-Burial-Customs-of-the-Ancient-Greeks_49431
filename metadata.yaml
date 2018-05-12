@@ -1,10 +1,16 @@
 _repo: The-Burial-Customs-of-the-Ancient-Greeks_49431
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49431-h/images/cover.jpg
 creator:
   author:
     agent_name: Graves, Frank Pierrepont
     gutenberg_agent_id: '45334'
     url: http://www.gutenberg.org/2009/agents/45334
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49431#The-Burial-Customs-of-the-Ancient-Greeks
 gutenberg_issued: '2015-07-12'
 gutenberg_type: Text
 identifiers:
